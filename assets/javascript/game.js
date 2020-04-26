@@ -57,3 +57,5 @@ document.addEventListener("keypress", function(e) {
         window.location.reload(true);
     }
 })
+// wanted to add star Trek Fonts to the Game but didn't have the proper app for it. Also wanted to add Music but needed an audio connector to do so.
+//also wasn't able to add a "winner" alert for if you guessed the word correct. 

@@ -9,10 +9,11 @@
   margin: 100px auto;
   text-align: center;
   font-weight: 500px;
+  color:white;
 }
 
 .star { 
-  background: url('../images/startrek.jpg');
+  background: url('../images/startrek2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
